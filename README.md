@@ -1,6 +1,6 @@
-`npm i -S reddit-place-image`
+Get image for current reddit.com/r/place
 
-reddit.com/r/place
+`npm i -S reddit-place-image`
 
 `boardImage()` and `saveBoardImage()` return promises.
 
@@ -12,6 +12,5 @@ place.boardImage().then( (board) => {
 });
 
 // or just save to bitmap file
-
 place.saveBoardImage('place.bmp').catch(console.error);
 ```
