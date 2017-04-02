@@ -1,0 +1,16 @@
+{
+  "name": "reddit-place-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "get-range": "^1.0.0",
+    "jimp": "^0.2.27"
+  }
+}
