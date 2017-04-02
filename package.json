@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jason Livesay",
+  "repository": "runvnc/reddit-place-image",
   "license": "ISC",
   "dependencies": {
     "fetch": "^1.1.0",
